@@ -1,8 +1,8 @@
-class Pig
+class HelloWorld
 {
     public static void main(String args[])
     {
-        System.out.println("I am pig");
+        System.out.println("Hello");
     }
 
 }
